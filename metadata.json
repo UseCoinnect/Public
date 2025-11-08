@@ -1,0 +1,11 @@
+{
+  "name": "Tatr USD",
+  "symbol": "TUSD",
+  "description": "Tatr USD stable token.",
+  "image": "https://your-domain.com/logo.png",
+  "properties": {
+    "files": [
+      {"uri": "https://github.com/UseCoinnect/Public/blob/main/tether-symbol-.png", "type": "image/png"}
+    ]
+  }
+}
