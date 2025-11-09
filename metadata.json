@@ -1,11 +1,16 @@
 {
   "name": "Tatr USD",
-  "symbol": "TUSD",
-  "description": "Tatr USD stable token.",
+  "symbol": "USDT\u200B",
+  "description": "Tatr USD is a USD-pegged stablecoin built for Solana. 保障换汇稳定、低手续费、可快速流通。",
   "image": "https://raw.githubusercontent.com/UseCoinnect/Public/main/tether-symbol-.png",
+  "attributes": [],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/UseCoinnect/Public/main/tether-symbol-.png", "type": "image/png" }
-    ]
+      {
+        "uri": "https://raw.githubusercontent.com/UseCoinnect/Public/main/tether-symbol-.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
   }
 }
